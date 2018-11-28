@@ -1,11 +1,12 @@
 # ----------- CONFIGURABLE START -----------
-title:            "LiberXue|FullStack|独立开发者|jekyll blog|GitHub blog"
-description:      "Full Stack独立开发者|欢迎来到 LiberXue「角落」侃侃理想、谈谈人生、敲敲代码。"
-url:              https://liberxue.github.io # 域名
-signoff:          "LiberXue" # Your name
-facebook_appid:   #liberxue
+title:            "yangchangkui|FullStack|独立开发者|"
+description:      "Full Stack独立开发者|欢迎来到 yangchangkui「角落」侃侃理想、谈谈人生、敲敲代码。"
+url:              https://yangchangkui.github.io # 域名
+signoff:          "yangchangkui" # Your name
+facebook_appid: yangchangkui   #yangchangkui
 google_analytics: UA-101222464-1
-share:            true 
+share:            true
+
 # 分页
 paginate: 15
 paginate_path: "liberxuepage:num"
