@@ -290,11 +290,15 @@ pre code::after {font-size: 1rem;color: #BFBFBF;position: absolute;top: 5px;righ
 /* ==========================================================================
    #directory
    ========================================================================== */
-.directory-content{position:relative; z-index:99999;max-width:8; line-height: 30px;
+.directory-content{
+    position:relative;
+    z-index:99999;
+    max-width:8;
+    line-height: 30px;
     max-height: 10px;
     overflow: hidden;
     margin-right:auto!important;
-    margin-left:auto!important;
+    margin-left:84% !important;
     text-align:right;}
 directory-content:after {
     content: "..."; position: absolute; bottom: 0; right: 0; padding-left: 40px;
