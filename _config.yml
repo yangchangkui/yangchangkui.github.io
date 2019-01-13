@@ -18,6 +18,9 @@ links:
   - name:         书籍
     url:          /book
     external:     false
+  - name:         Java
+    url:          /Java
+    external:     false
   - name:         旅游
     url:          /road
     external:     false
