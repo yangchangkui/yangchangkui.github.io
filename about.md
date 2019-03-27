@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: 关于LiberXue
-description: "关于LiberXue博客角落自述"
-data: 2017-08-05 09:19:11
+title: 杨昌奎 Java开发工程师
+description: "关于杨昌奎博客角落自述"
+data: 2019-03-27 21:11:10
 tags: 
 - LiberXue
 - 简述
