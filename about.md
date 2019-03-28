@@ -11,6 +11,7 @@ tags:
 - 全栈开发工程师
 
 redirect_from:
+date: 2019-03-01 21:00:00
   - /about/
 ---
 
