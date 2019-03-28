@@ -8,6 +8,8 @@ tags:
 - 互联网
 - 日思日睿
 - 笃志笃行
+- 全栈开发工程师
+
 redirect_from:
   - /about/
 ---
